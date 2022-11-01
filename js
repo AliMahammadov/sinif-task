@@ -41,3 +41,14 @@ for (let i=0; i<contry.length; i++){
     console.log(`${contry[i][0]}${contry[i][1]}${contry[i][2]}`);
 
 }
+
+
+
+
+
+misal
+
+for (i=0; i<=10;i++){
+console.log(`${i}*${i}=${i}+${i}`)
+}
+
