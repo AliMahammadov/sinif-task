@@ -1,0 +1,174 @@
+1 ci
+
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Introducing AlgoCoin
+        </h1>
+        <p>The future of decentralized meme currency is here.
+
+        </p>
+        <h1>
+            What is AlgoCoin?
+
+        </h1>
+        <p>
+            AlgoCoin utilizes a revolutionary proof-of-inverted-binary-tree consensus algorithm that will absolutely transform the way we think about currency and catapult the metaverse to its next major stage: Web 4.0. Using AlgoCoin is simple. Instead of hoarding capital in wallets with forgotten passwords, earn AlgoCoin at the time of usage through our unique point-of-sale system. Each inverted binary tree equates to one AlgoCoin. This means if your chicken tenders cost 420 AlgoCoin, all you need to do is invert 420 binary trees.
+
+        </p>
+        <hr>
+        <h1>
+            Where Do I Start?
+
+        </h1>
+        <p>
+            Getting started with AlgoCoin is as easy as reversing a linked list. We recommend starting out by practicing on  <td><a href="https://algoexpert.io/">AlgoExpert</a></td>. Next, once you feel you can invert binary trees as well as an Ex-FAANG 10x engineer, it's time to ditch your fiat currency and enter the future.
+
+        </p>
+        <p>
+            Copyright 3022 AlgoCoin. All rights reserved.
+ 
+        </p>
+    </body>
+</html>
+
+
+
+
+
+
+2 ci
+
+
+
+ <!DOCTYPE html>
+<html>
+    <body>
+        <h1>Spaghetti Recipe</h1>
+        <h1>
+            Ingredients
+        </h1>
+        <p>&#9632;Spaghetti</p>
+        <p>&#9632;Marinara Sauce</p>
+        <p>&#9632;Salt</p>
+        <p>&#9632;Water</p>
+        <h1>
+Instructions
+        </h1>
+        <p>
+            1. Bring water to a boil.
+
+        </p>
+        <p>
+            2. Add spaghetti to boiling water.
+
+        </p>
+        
+<hr>
+
+<p>
+    1. Add salt to taste.
+
+</p>
+<p>
+    2. Cook for 10 minutes, stirring occasionally.
+
+</p>
+<hr>
+<p>
+    3. Add marinara sauce to a pan, bringing to a simmer.
+
+</p>
+<p>
+    4. Mix cooked spaghetti with marinara sauce.
+
+</p>
+<p>
+    5. Enjoy!
+
+
+    </body>
+</html> 
+
+
+
+
+
+
+3 cu
+
+
+<!DOCTYPE html>
+<html>
+<body>
+  <labelfor="name">Name:</label><br>
+  <input type="text" id="fname" name="fname" placeholder=><br>
+  <label for="E posta">Adress:</label><br>
+  <input type="text" id="lname" name="Eposta" placeholder=><br><br>
+  <input type="submit" value="Submit">
+  <p>
+
+  </p>
+  <td>
+    <a href="https://code.edu.az">link<a>
+  </td>
+  <p>
+   <mark> The form examples presented in these exercises use a dummy URL in the action attribute. You'll have to change that to make the forms work with your particular form mail script.</mark>
+
+  </p>
+  <p>The successful result would be the following emailed to you...
+</p>
+<pre>
+    LAME-Bobby Brady
+</pre>
+<pre>
+    ADORESS-1099 Mapledale Road
+
+</pre>
+<p>
+    (or whatever you enter into the form)
+
+
+</p>
+<p>
+    Get this form uploaded and working before you continue.
+
+</p>
+<hr>
+<h1>
+    Exercise 2:
+
+</h1>
+<p>
+    Ask for a few more things... first name, last name, address, city, state, zip. Arrange things neatly in a borderless table so everything lines up and looks nice and neat...
+
+</p>
+  <label for="fname">Name:</label><br>
+  <input type="text" id="fname" name="fname" placeholder=""><br>
+  <label for="E posta">Adress:</label><br>
+  <input type="text" id="lname" name="Eposta" placeholder=""><br>
+</label for="fname">City</labelfor><br>
+<input type="text" id="City" name="City" placeholder=""><bir>
+</label for="fname">State</labelfor><br>
+<input type="text" id="State" name="state" placeholder=""><bir>
+</label for="fname">Zip</labelfor><br>
+<input type="text" id="Zip" name="City" placeholder=""><bir>
+
+
+
+  <!-- <input type="submit" value="Kaydet"> -->
+</form> 
+
+</body>
+</html>
+
+
+
+
+4
+
+
+
+
+
