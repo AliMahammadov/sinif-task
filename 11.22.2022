@@ -1,0 +1,91 @@
+bucket//
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using taskAli.folder;
+
+namespace Flowers.model
+{
+    internal class Bucket
+    {
+        private Flower flower;
+        private uint _flowercount;
+        private float _discountPercent;
+
+
+        public uint FlowerCount
+        {
+            get
+            { return _flowercount;
+            }
+            set
+            {
+                if(value < 20)
+                _flowercount = value; } }
+
+
+        public float _DiscountPercent
+        {
+            get
+            {
+                return _discountPercent;
+            }
+            set
+            {
+                if(value>=0 && value<=100)
+                _discountPercent = value;
+            }
+        }
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+flover
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace taskAli.folder
+{
+    internal record Flower
+    {
+        public string name;
+        public string color;
+        public float price;
+    }
+}
+
+
+
+
+
+
+
+
+
+
